@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **getting job relevant cloud/devops skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SogaOk](https://github.com/SogaOk)
+- 👨‍💻 All of my projects are available at [https://github.com/SogaOk?tab=repositories](https://github.com/SogaOk?tab=repositories)
 
 - 📫 How to reach me **sokusami@gmail.com**
 
